@@ -25,7 +25,7 @@ Completion checkboxes
 🛠️ Tech Stack
 Frontend: HTML, CSS, JS
 Backend: Java-Script
-Api: Gemini 1.5
+Api: Gemini 
 Styling: CSS 
 
 ![image](https://github.com/user-attachments/assets/f2034288-14b3-4498-9182-0574ea1a5f73)
